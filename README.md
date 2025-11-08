@@ -8,10 +8,37 @@
 
 Several players will take on the roll of adventurers in an imaginary world while one player will control the game world and all it's other inhabitants as the **referee**.  
   
-In this guide you'll learn how to create and control a character. For details on running the game as the **referee** please refer to the Referee's Handbook (coming soon).  
+In this guide you'll learn how to create and control a character. For details on running the game as the **referee** please refer to the [[Referee's Handbook]].  
   
 **You will need:** One 20 sided die (d20), Two six sided dice (d6), a pencil, some scrap paper, and a [printed character sheet](https://drive.google.com/file/d/1_c0TE4zsh_KOR0ZYRFxC2hPrTODms0ci/view?usp=sharing).
-
+# Table of Contents
+- [[#Create a Character]]
+	- [[#1. Attributes]]
+	- [[#2. MAX HP]]
+	- [[#3. Appearance & Motivations]]
+	- [[#4. Background & Inventory]]
+	- [[#5. Weapons]]
+	- [[#6. Traits]]
+	- [[#7. Starting Spells]]
+- [[#How to Play]]
+	- [[#Attributes]]
+	- [[#Action Rolls]]
+	- [[#Dangerous Actions]]
+	- [[#Armor and Shields]]
+	- [[#Advantage and Disadvantage]]
+	- [[#Inspiration]]
+	- [[#Inventory]]
+	- [[#Death Rolls]]
+	- [[#Stabilizing]]
+	- [[#Advancement]]
+	- [[#Healing]]
+	- [[#Magic]]
+- [[#Combat]]
+	- [[#Surprise]]
+	- [[#Initiative]]
+	- [[#Attacking]]
+- [[#Vocations]]
+	- [[#Fighter]]
 # Create a Character
 
 ---
@@ -151,7 +178,7 @@ Range is broken up into four categories.
 - **Near** (up to 60ft away)
 	- Within reach if you sprint
 - **Far** (up to 120ft away)
-	- Within sight and the reach of ranged weapons
+	- Within the reach of ranged weapons
 
 ## 6. Traits
 
@@ -201,7 +228,7 @@ Roll the d20 and check the list below to see what special trait your ancestors p
 
 Roll a d6 and add your **INTELLECT** to the result. If the final number is a 5 or higher then add one starting spell to your character sheet.  
   
-Roll a twenty sided die and check the list below to see which spell you've memorized. Write it down as it appears. We'll go over spellcasting in **How to Play**.  
+Roll a d20 and check the list below to see which spell you've memorized. Write it down as it appears. We'll go over spellcasting in **How to Play**.  
   
 **01. Cornucopia** *(DS10, C)*: Enough food appears to feed a number of people equal to your level. It is delicious and suited to each person’s taste.  
   
@@ -247,7 +274,7 @@ Roll a twenty sided die and check the list below to see which spell you've memor
 
 ---
 
-A **referee** controls and describes the game world to players. The players describe their characters' actions in that world. Then the **referee** describes the results of those actions.  
+A **referee** controls and describes the game world to the players. The players describe their characters' actions in that world. Then the **referee** describes the results of those actions.  
 
 ## Attributes
 
@@ -329,47 +356,91 @@ After eating a meal and getting at least 8 hours of sleep roll 2d6, add your **M
 
 ## Magic
 
-Spells can be found on scrolls or as pages in spell books. Holding a spell scroll or page and reading it aloud will cast the spell without the need to make an action roll but after the spell ends it will crumble into dust.  
+Spells can be found on scrolls or as pages in spell books. Holding a spell scroll or page and reading it aloud will cast the spell without the need to make an action roll but after the spell ends the words on the scroll will disappear leaving only ordinary parchment.  
   
-You may memorize a number of spells equal to your level. The process takes at least 8 hours per spell. Any scroll that's memorized is destroyed as if read aloud.  
+You may memorize a number of spells equal to your level. The process takes at least 8 hours per spell. Any scroll that's memorized becomes blank as if it had been read aloud. 
 
 Spells are listed like this:
-
 **Spell Name** *(DS, Range)*: Description of effects
 
-Whenever you cast a spell from memory make an **INTELLECT** roll against that spell’s **Difficulty Score** (**DS**). On a success the spell works as intended. On a failure the spell fizzles out and can’t be cast again for one day.  
-  
+Whenever you cast a spell from memory make an **INTELLECT** roll against that spell’s **Difficulty Score** (**DS**). On a success the spell works as intended. On a failure the spell fizzles out and can’t be cast again for one day.
+
 Spells have ranges similar to weapons.
-  
+
 If you roll a 1 when casting a spell it will backfire. Roll a d6 and check the list below.    
 
-|     |                                                                                                                                                     |
-|:---:| :-------------------------------------------------------------------------------------------------------------------------------------------------- |
-|1| All of the magical energy in your body is expended in a rush leaving you drained. Make all rolls at disadvantage until you have a full nights rest. |
-|2-4| After a bang and a flash of light you go blind and deaf for a number of rounds equal to the spell's difficulty score.                               |
-|5-6| Misdirected magical energy surges through your body briefly like an electric shock. You are stunned for 1 round.|  
+|     |                                                                                                                                                  |     |
+| :-: | :----------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+|  1  | All of the magical energy in your body is expended in a rush leaving you drained. Make all rolls at disadvantage until you've had an hours rest. |     |
+| 2-4 | After a bang and a flash of light you go blind and deaf for a number of rounds equal to the spell's difficulty score.                            |     |
+| 5-6 | Misdirected magical energy surges through your body briefly like an electric shock. You are stunned for 1 round.                                 |     |
 
 # Combat
 
 ---
 Before combat begins the **referee** will determine if anyone is surprised and then call for an initiative roll.
 
-Combat is broken into rounds. Each round is meant to roughly 5 seconds of game time.  
+Combat is broken into rounds. Each round is meant to roughly 6 seconds of game time.  
 
 During each round every player character and group of enemies can either move somewhere **close** and take one action or sprint anywhere **near** and take no actions.   
 
 ## Surprise
-
 If a group may be surprised at the beginning of combat roll a d6. If the result is a 1-3 they are surprised.  
   
 Players roll at disadvantage during the first round if they are surprised and likewise with advantage if the enemies are surprised.  
 
 ## Initiative
-
 At the beginning of each round the **referee** and one player each roll a d6. If the player rolls the higher number they go first; if not the enemies do. The players decide the order in which their actions occur.
 
 ## Attacking
-
 Attacking an enemy combatant requires an action roll. Roll a d20, add points from a relevant attribute, and then bonuses from relevant items. **MIGHT** is used to make melee attacks and **DEFTNESS** is used to make ranged attacks.  
 
 Attacks at close range are considered a **dangerous action** and may result in the attacker taking damage from a counterattack.
+
+## Critical Hits
+If you roll a 20 for an attack roll then add 10 to the damage dealt by your attack.
+
+# Vocations
+
+---
+If your character survives long enough to make it to level 6 they can choose a vocation. 
+
+The usual advancement rules no longer apply when leveling up. Each vocation will assign different bonuses or abilities based on your level.
+
+The starting vocations are:
+Fighter, Knave, Mage, Ranger
+## Fighter
+Levels 6-8  
+You have chosen to dedicate your life to the art of combat. If you must fight to survive you might as well be good at it.
+### Level 6 - Weapon Mastery
+You gain advantage with one of the following weapon types:
+- One handed swords
+- Two handed swords
+- Maces
+- Warhammers
+- Battleaxes
+- Spears
+- Bows
+### Level 7 - Advanced Defense
+Choose 1 of the following new abilities.
+#### Shield Bash
+- You can use your shield as a weapon.
+    - Add it's armor bonus to your attacks if used in this way.
+
+or
+
+#### Feint
+- Lure an enemy into opening their defensive with a fake attack.
+    - Make a weapon attack but add your **DEF** to the roll instead of **MIG**.
+    - If successful the target takes no damage but is left in a compromising position.
+        - The next attack made against the target is made with advantage.
+        - If that next attack is from **you** it is an automatic critical hit.
+### Level 8 - Training Regimen
+Increase either **MIG** or **DEF** by 2.
+## Knave
+Levels 6-8
+Crime pays very well as long as you don't get caught.
+### Level 6 - A Trick of the Trade
+You gain advantage while attempting one of the following tasks:
+- Sneaking by a guard
+- Picking a lock
