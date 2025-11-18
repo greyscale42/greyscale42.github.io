@@ -344,6 +344,7 @@ If you roll a 1 when casting a spell it will backfire. Roll a d6 and check the l
 |  1  | All of the magical energy in your body is expended in a rush leaving you drained. Make all rolls at disadvantage until you've had an hours rest. |     |
 | 2-4 | After a bang and a flash of light you go blind and deaf for a number of rounds equal to the spell's difficulty score.                            |     |
 | 5-6 | Misdirected magical energy surges through your body briefly like an electric shock. You are stunned for 1 round.                                 |     |
+
 # COMBAT
 
 ---
@@ -414,6 +415,7 @@ You gain **expertise** on attack rolls with one of the following weapon types:
 - Spears
 - Bows
 - Crossbows
+
 ### Level 7 - Advanced Abilities
 Choose 1 of the following new abilities.
 #### Feint
@@ -427,11 +429,14 @@ Choose 1 of the following new abilities.
     - Add it's armor bonus to melee attacks made with it.
 #### Trick Shot
 - You may automatically succeed one shot with a ranged weapon per game session as long as it is not an attack.
+
 ### Level 8 - Training Regimen
 Increase either **MIG** or **DEF** by 2.
+
 ## Knave
 Levels 6-8
 Crime pays very well if you don't get caught.
+
 ### Level 6 - A Trick of the Trade
 You gain **expertise** on action rolls to attempt one of the following tasks:
 - Hiding in the shadows
@@ -440,14 +445,17 @@ You gain **expertise** on action rolls to attempt one of the following tasks:
 - Disarming a trap
 - Scaling a wall
 - Disappearing into a crowd
+
 ### Level 7 - Advanced Abilities
 Choose one of the following new abilities.
+
 #### Backstab
 Successful attacks made against unaware opponents are automatically critical hits.
 
 or
 
 #### Evade
+
 ## Mage
 Levels 6-8
 The powers of chaos are there for those brave or foolish enough to seek them.
