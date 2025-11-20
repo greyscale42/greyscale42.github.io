@@ -35,6 +35,12 @@ h1 {
   font-size: 28px;
   margin-bottom: 4px;
 }
+h2 {
+margin-bottom: 8px;
+}
+p {
+margin-top:0;
+}
 @media screen and (max-width:1080px) {
   body {
     font-size: 18px;
@@ -42,10 +48,16 @@ h1 {
     margin-left: 16px; 
   }
   img {
-  width: 100%;
-  height: auto;
+    width: 100%;
+    height: auto;
   }
   table {
-  font-size: 16px;
+    font-size: 16px;
+  }
+  h1 {
+	font-size: 24px;
+  }
+  h2 {
+    font-size: 22px;
   }
 }
