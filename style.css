@@ -23,6 +23,12 @@ table {
   font-weight: <weight>;
   font-style: normal;
 }
+
+.attt th {
+  width: 33%;
+  margin: auto;
+}
+
 hr {
   height: 3px;
   background-color: #f7ecc4;
