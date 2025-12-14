@@ -17,7 +17,7 @@ body {
 }
 
 blockquote {
-  border-left: 10px solid #f09770;
+  border-left: 8px solid #f09770;
   margin: 1.5em 10px;
   padding: 0.5em 10px;
 }
@@ -88,6 +88,16 @@ ul {
 	width: 10%;
 }
 
+.xptable {
+	width: 40%; 
+	margin-left: auto; 
+	margin-right: auto;
+}
+
+.xptable td {
+	text-align: center;
+}
+
 #myBtn {
   display: none;
   position: fixed;
@@ -124,5 +134,10 @@ ul {
   }
   table {
     font-size: 16px;
+  }
+  .xptable {
+	width: 60%; 
+	margin-left: auto; 
+	margin-right: auto;
   }
 }
