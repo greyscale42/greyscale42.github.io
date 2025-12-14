@@ -1,6 +1,7 @@
 a {
   color: #f09770;
 }
+
 body { 
   background-color: #3c2811;
   color: #f7ecc4;
@@ -15,6 +16,47 @@ body {
   margin-left: 180pt; 
 }
 
+blockquote {
+  border-left: 10px solid #f09770;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+}
+
+blockquote:before {
+  color: #f09770;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+
+blockquote p {
+  display: inline;
+}
+
+h1 {
+  font-size: 28px;
+  margin-bottom: 4px;
+}
+
+h2 {
+margin-bottom: 8px;
+}
+
+hr {
+  height: 3px;
+  background-color: #f7ecc4;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+p {
+margin-top:0;
+}
+
 table {
   width: 100%;
   font-size: 18px;
@@ -24,28 +66,28 @@ table {
   font-style: normal;
 }
 
+ul {
+  padding-left: 20px;
+  line-height: 1.8;
+}
+
 .attt th {
   width: 36%;
 }
 
-hr {
-  height: 3px;
-  background-color: #f7ecc4;
+.copyright {
+	font-size: 15px;
 }
-img {
-  display: block;
-  margin: auto;
+
+.examplelabel {
+	font-weight: bold;
+	font-size: 20px;
 }
-h1 {
-  font-size: 28px;
-  margin-bottom: 4px;
+
+.magictab {
+	width: 10%;
 }
-h2 {
-margin-bottom: 8px;
-}
-p {
-margin-top:0;
-}
+
 #myBtn {
   display: none;
   position: fixed;
@@ -67,9 +109,14 @@ margin-top:0;
 }
 @media screen and (max-width:1080px) {
   body {
-    font-size: 18px;
 	margin-right: 16px;
     margin-left: 16px; 
+  }
+  h1 {
+	font-size: 24px;
+  }
+  h2 {
+    font-size: 22px;
   }
   img {
     width: 100%;
@@ -77,11 +124,5 @@ margin-top:0;
   }
   table {
     font-size: 16px;
-  }
-  h1 {
-	font-size: 24px;
-  }
-  h2 {
-    font-size: 22px;
   }
 }
