@@ -37,10 +37,11 @@ blockquote p {
 h1 {
   font-size: 28px;
   margin-bottom: 4px;
+  display: inline-flex;
 }
 
 h2 {
-margin-bottom: 8px;
+  margin-bottom: 8px;
 }
 
 hr {
